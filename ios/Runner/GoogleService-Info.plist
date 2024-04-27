@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>949622844363-uil9p52jqef0ep1t6nhojt07k77ut3mp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.949622844363-uil9p52jqef0ep1t6nhojt07k77ut3mp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>949622844363-0uk11krrl4psr7j47gn2nl92id9olbgh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKU9gMs1ywNDk6LpSKJFf3mUmV3ilwVhw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>949622844363</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.houseRentalAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>woww-b2885</string>
+	<key>STORAGE_BUCKET</key>
+	<string>woww-b2885.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:949622844363:ios:b18fbf89061c86c954e44e</string>
+	<key>DATABASE_URL</key>
+	<string>https://woww-b2885.firebaseio.com</string>
+</dict>
+</plist>

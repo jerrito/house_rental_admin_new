@@ -138,7 +138,7 @@ class HomeRemoteDataSourceImpl extends HomeRemoteDataSource {
   Future<void> sendFCMMessage(Map<String, dynamic> params) async {
     final url = Uri.parse(
         "https://fcm.googleapis.com/v1/projects/woww-b2885/messages:send");
-    const String firebaseFCMToken =String.fromEnvironment("firebaseToken");
+    const String firebaseFCMToken =String.fromEnvironment("serverKey");
     const String receiverFCMToken =String.fromEnvironment("receiverToken");
     final Map<String, String> headers = {
       //'Content-Type': 'application/json',
